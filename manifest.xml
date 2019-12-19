@@ -1,0 +1,14 @@
+<dataroot>
+<manifest>
+<www>www</www>
+<db>db</db>
+<headers>
+http://koshek.net:8080/;
+http://127.0.0.1/;
+</headers>
+<wsport>500</wsport>
+<wsip>127.0.0.1</wsip>
+<root>admin</root>
+<rootparole>qwerty</rootparole>
+</manifest>
+</dataroot>
